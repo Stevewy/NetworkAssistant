@@ -6,3 +6,6 @@
 
 如果出现bug欢迎交流  
 邮箱： 3050740551@qq.com
+
+注：本项目在学长项目基础上完善得来  
+链接：https://github.com/SCU-SJL/SCUNET-Connector
